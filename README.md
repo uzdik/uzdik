@@ -1,4 +1,4 @@
-### Hi there 👋
+### “Үздік Білім” арнаның ресми github репозитарийіне қош келдіңіз! 👋
 
 <!--
 **uzdik/uzdik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
